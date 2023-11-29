@@ -1,6 +1,0 @@
-server:
-  port: 9655
-
-spring:
-  application:
-    name: kafka-stream-test
